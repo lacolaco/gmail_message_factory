@@ -2,7 +2,7 @@ name: gmail_message_factory
 description: Factory to write a message to send by gmail api.
 version: 0.0.1
 author: laco0416 <laco0416@gmail.com>
-#homepage: https://www.example.com
+homepage: https://github.com/laco0416/gmail_message_factory
 environment:
   sdk: '>=1.0.0 <2.0.0'
 dev_dependencies:
