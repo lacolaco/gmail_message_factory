@@ -1,6 +1,6 @@
 # gmail_message_factory [![Build Status](https://drone.io/github.com/laco0416/gmail_message_factory/status.png)](https://drone.io/github.com/laco0416/gmail_message_factory/latest)
 
-Privide a factory to write a message to send by gmail api.
+Provide a factory to write a message to send by gmail api.
 
 ## Usage
 
